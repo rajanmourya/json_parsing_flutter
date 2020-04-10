@@ -1,4 +1,4 @@
-# jsonparsingflutter
+# JSON Parsing in Flutter
 
 A new Flutter application for learning Complex JSON Parsing.
 
